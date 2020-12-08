@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+/public/css
+/public/js
+/public/mix-manifest.json
+/.idea
+/pcov
+_ide_helper_models.php
+_ide_helper.php
+.phpstorm.meta.php
+.php_cs.cache
